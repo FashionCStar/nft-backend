@@ -1,0 +1,142 @@
+[
+    {
+        "nft_id": 0,
+        "name": "Bear #0",
+        "description": "This is the Bear #0",
+        "price": 0.05,
+        "nftCollection": {
+            "id": 0,
+            "name": "Bear"
+        },
+        "creator": {
+            "id": 0,
+            "name": "David",
+            "email": "david@starseas.com"
+        },
+        "owner": {
+            "id": 0,
+            "name": "David",
+            "email": "david@starseas.com"
+        }
+    },
+    {
+        "nft_id": 1,
+        "name": "Bear #1",
+        "description": "This is the Bear #1",
+        "price": 0.05,
+        "nftCollection": {
+            "id": 0,
+            "name": "Bear"
+        },
+        "creator": {
+            "id": 0,
+            "name": "David",
+            "email": "david@starseas.com"
+        },
+        "owner": {
+            "id": 0,
+            "name": "David",
+            "email": "david@starseas.com"
+        }
+    },
+    {
+        "nft_id": 2,
+        "name": "Bear #2",
+        "description": "This is the Bear #2",
+        "price": 0.05,
+        "nftCollection": {
+            "id": 0,
+            "name": "Bear"
+        },
+        "creator": {
+            "id": 0,
+            "name": "David",
+            "email": "david@starseas.com"
+        },
+        "owner": {
+            "id": 0,
+            "name": "David",
+            "email": "david@starseas.com"
+        }
+    },
+    {
+        "nft_id": 3,
+        "name": "Tiger #0",
+        "description": "This is the Tiger #0",
+        "price": 0.1,
+        "nftCollection": {
+            "id": 0,
+            "name": "Tiger"
+        },
+        "creator": {
+            "id": 0,
+            "name": "David",
+            "email": "david@starseas.com"
+        },
+        "owner": {
+            "id": 0,
+            "name": "David",
+            "email": "david@starseas.com"
+        }
+    },
+    {
+        "nft_id": 4,
+        "name": "Tiger #1",
+        "description": "This is the Tiger #1",
+        "price": 0.1,
+        "nftCollection": {
+            "id": 0,
+            "name": "Tiger"
+        },
+        "creator": {
+            "id": 0,
+            "name": "David",
+            "email": "david@starseas.com"
+        },
+        "owner": {
+            "id": 0,
+            "name": "David",
+            "email": "david@starseas.com"
+        }
+    },
+    {
+        "nft_id": 5,
+        "name": "Tiger #2",
+        "description": "This is the Tiger #2",
+        "price": 0.1,
+        "nftCollection": {
+            "id": 0,
+            "name": "Tiger"
+        },
+        "creator": {
+            "id": 0,
+            "name": "David",
+            "email": "david@starseas.com"
+        },
+        "owner": {
+            "id": 0,
+            "name": "David",
+            "email": "david@starseas.com"
+        }
+    },
+    {
+        "nft_id": 6,
+        "name": "Tiger #3",
+        "description": "This is the Tiger #3",
+        "price": 0.1,
+        "nftCollection": {
+            "id": 0,
+            "name": "Tiger"
+        },
+        "creator": {
+            "id": 0,
+            "name": "David",
+            "email": "david@starseas.com"
+        },
+        "owner": {
+            "id": 0,
+            "name": "David",
+            "email": "david@starseas.com"
+        }
+    }
+]
